@@ -1,0 +1,19 @@
+# Local Salesforce configuration and evidence
+**/automation/config/local.json
+**/automation/cdp-local/
+**/automation/runs/
+**/evidence/
+**/エビデンス出力/
+
+# Credentials and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated files
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

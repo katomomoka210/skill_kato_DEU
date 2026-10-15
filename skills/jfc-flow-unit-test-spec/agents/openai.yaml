@@ -1,0 +1,4 @@
+interface:
+  display_name: "国民CRM フロー単体テスト"
+  short_description: "設計書から案件ルール準拠のフロー単体テスト仕様書を作成・修正"
+  default_prompt: "$jfc-flow-unit-test-spec を使って、指定したフロー設計書の単体テスト仕様書を作成してください。"

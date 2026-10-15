@@ -1,0 +1,4 @@
+interface:
+  display_name: "Salesforceフロー単体テスト自動化"
+  short_description: "非画面Flowの設計照合・自動実行・ケース別証跡を整備する"
+  default_prompt: "$salesforce-flow-playwright-ut を使い、対象の非画面Flowについて設計書とメタデータを参照し、既存のオブジェクト用スキルを変更せずテスト自動化を追加・調整してください。"

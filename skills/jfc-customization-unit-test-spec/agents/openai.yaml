@@ -1,0 +1,7 @@
+interface:
+  display_name: "国民CRM カスタマイズ単体テスト"
+  short_description: "カスタマイズ設計書から案件ルール準拠の単体テスト仕様書を作成・修正"
+  default_prompt: "$jfc-customization-unit-test-spec を使って、指定したカスタマイズ設計書の単体テスト仕様書を作成してください。"
+
+policy:
+  allow_implicit_invocation: true
